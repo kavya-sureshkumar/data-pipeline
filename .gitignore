@@ -2,3 +2,5 @@
 target/
 dbt_packages/
 logs/
+airflow_settings.yaml
+.astro/
